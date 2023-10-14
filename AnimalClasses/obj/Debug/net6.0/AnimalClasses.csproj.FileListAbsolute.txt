@@ -1,0 +1,12 @@
+/home/narek/Documents/C#/lab08/AnimalClasses/bin/Debug/net6.0/AnimalClasses.deps.json
+/home/narek/Documents/C#/lab08/AnimalClasses/bin/Debug/net6.0/AnimalClasses.dll
+/home/narek/Documents/C#/lab08/AnimalClasses/bin/Debug/net6.0/AnimalClasses.pdb
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.csproj.AssemblyReference.cache
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.AssemblyInfoInputs.cache
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.AssemblyInfo.cs
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.csproj.CoreCompileInputs.cache
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.dll
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/refint/AnimalClasses.dll
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/AnimalClasses.pdb
+/home/narek/Documents/C#/lab08/AnimalClasses/obj/Debug/net6.0/ref/AnimalClasses.dll
